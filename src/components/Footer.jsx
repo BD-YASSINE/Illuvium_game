@@ -6,7 +6,7 @@ const Footer = () => {
       <img className="h-10" src="/images/illu-text.png" alt="illu-text" />
 
       <img
-        className="h-16"
+        className="h-16 md:inline hidden"
         src="/public/images/illu-logo.png"
         alt="illu-logo"
       />
