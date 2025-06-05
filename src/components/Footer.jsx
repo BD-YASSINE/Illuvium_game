@@ -23,13 +23,13 @@ const Footer = () => {
             className="md:text-3xl text-2xl hover:text-violet-600 duration-300"
             href="#"
           >
-            <i class='bx bxl-facebook-square'></i>{" "}
+            <i class="bx bxl-facebook-square"></i>{" "}
           </a>
           <a
             className="md:text-3xl text-2xl hover:text-violet-600 duration-300"
             href="#"
           >
-            <i class='bx bxl-instagram'></i>{" "}
+            <i class="bx bxl-instagram"></i>{" "}
           </a>
           <a
             className="md:text-3xl text-2xl hover:text-violet-600 duration-300"
@@ -41,8 +41,8 @@ const Footer = () => {
       </div>
       <div className="flex items-center justify-center mt-6">
         <p className="text-sm hover:text-violet-600 duration-300 text-center">
-          © 2025 Illuvium Inc. All rights reserved. <br /> Illuvium™ and its respective logos are trademarks of Illuvium Inc.
-
+          © 2025 Illuvium Inc. All rights reserved. <br /> Illuvium™ and its
+          respective logos are trademarks of Illuvium Inc.
         </p>
       </div>
     </footer>
