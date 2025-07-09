@@ -80,7 +80,7 @@ You can easily deploy this project using:
 
 ## 🙋 Author
 
-Made with 💻 by [**Yassine**](https://github.com/BD-YASSINE)
+Made with 💻 by [**ERROR**](https://github.com/BD-YASSINE)
 
 ---
 
