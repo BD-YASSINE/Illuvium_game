@@ -78,7 +78,7 @@ You can easily deploy this project using:
 ![footer](/public/screenshots/Capture%20d’écran%202025-07-09%20172224.png)
 ---
 
-## 🙋 Author
+## 👤 Author
 
 Made by [**ERROR**](https://github.com/BD-YASSINE)
 
