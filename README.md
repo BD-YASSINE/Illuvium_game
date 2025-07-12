@@ -37,7 +37,7 @@ npm install
 npm run dev
 ```
 
-> ⚠️ Make sure you have **Node.js** , **npm** & **mongodb** installed on your system.
+> ⚠️ Make sure you have **Node.js** and **npm** installed on your system.
 
 ---
 
