@@ -16,31 +16,6 @@ A sleek and modern **3D landing page** built using **React** and **Tailwind CSS*
 
 ---
 
-## 📦 Installation
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/BD-YASSINE/Illuvium_game.git
-cd Illuvium_game
-```
-
-2. **Install dependencies:**
-
-```bash
-npm install
-```
-
-3. **Run the development server:**
-
-```bash
-npm run dev
-```
-
-> ⚠️ Make sure you have **Node.js** and **npm** installed on your system.
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -66,7 +41,34 @@ npm run dev
 ![main page](/public/screenshots/Capture%20d’écran%202025-07-09%20172136.png)
 
 ![footer](/public/screenshots/Capture%20d’écran%202025-07-09%20172224.png)
+
 ---
+
+## 📦 Installation
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/BD-YASSINE/Illuvium_game.git
+cd Illuvium_game
+```
+
+2. **Install dependencies:**
+
+```bash
+npm install
+```
+
+3. **Run the development server:**
+
+```bash
+npm run dev
+```
+
+> ⚠️ Make sure you have **Node.js** and **npm** installed on your system.
+
+---
+
 ## 🌐 Deployment
 
 You can easily deploy this project using:
