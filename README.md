@@ -21,8 +21,8 @@ A sleek and modern **3D landing page** built using **React** and **Tailwind CSS*
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/BD-YASSINE/3D-Project.git
-cd 3D-Project
+git clone https://github.com/BD-YASSINE/Illuvium_game.git
+cd Illuvium_game
 ```
 
 2. **Install dependencies:**
