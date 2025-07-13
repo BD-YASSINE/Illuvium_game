@@ -2,7 +2,7 @@
 
 A sleek and modern **3D landing page** built using **React.js** and **Tailwind CSS**, designed for gaming websites. This is a **frontend-only** project focused on eye-catching visuals and user experience.
 
-🔗 **Repository:** [3D-Project](https://github.com/BD-YASSINE/3D-Project)
+---
 
 ## 🚀 Features
 
@@ -11,6 +11,8 @@ A sleek and modern **3D landing page** built using **React.js** and **Tailwind C
 - 🧊 3D design and smooth animations
 - 📱 Fully responsive for all devices
 - 🌙 Dark theme for gaming vibes
+
+---
 
 ## 📁 Project Structure
 
@@ -28,6 +30,8 @@ A sleek and modern **3D landing page** built using **React.js** and **Tailwind C
 └── package.json       # Project metadata and scripts
 ```
 
+---
+
 ## 📷 Screenshots
 
 ![Landing Page Preview](/public/screenshots/Capture%20d’écran%202025-07-09%20172114.png)
@@ -35,6 +39,8 @@ A sleek and modern **3D landing page** built using **React.js** and **Tailwind C
 ![main page](/public/screenshots/Capture%20d’écran%202025-07-09%20172136.png)
 
 ![footer](/public/screenshots/Capture%20d’écran%202025-07-09%20172224.png)
+
+---
 
 ## 📦 Installation
 
@@ -66,6 +72,8 @@ npm run dev
 - React.js
 - Tailwind CSS
 
+---
+
 ## 🌐 Deployment
 
 You can easily deploy this project using:
@@ -74,9 +82,13 @@ You can easily deploy this project using:
 - [Netlify](https://netlify.com/)
 - [GitHub Pages](https://pages.github.com/)
 
+---
+
 ## 👤 Author
 
 Made by [**ERROR**](https://github.com/BD-YASSINE)
+
+---
 
 ## 📄 License
 
