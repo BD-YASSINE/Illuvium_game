@@ -59,6 +59,14 @@ npm run dev
 
 ---
 
+## 📷 Screenshots
+
+![Landing Page Preview](/public/screenshots/Capture%20d’écran%202025-07-09%20172114.png)
+
+![main page](/public/screenshots/Capture%20d’écran%202025-07-09%20172136.png)
+
+![footer](/public/screenshots/Capture%20d’écran%202025-07-09%20172224.png)
+---
 ## 🌐 Deployment
 
 You can easily deploy this project using:
@@ -67,15 +75,6 @@ You can easily deploy this project using:
 - [Netlify](https://netlify.com/)
 - [GitHub Pages](https://pages.github.com/)
 
----
-
-## 📷 Screenshots
-
-![Landing Page Preview](/public/screenshots/Capture%20d’écran%202025-07-09%20172114.png)
-
-![main page](/public/screenshots/Capture%20d’écran%202025-07-09%20172136.png)
-
-![footer](/public/screenshots/Capture%20d’écran%202025-07-09%20172224.png)
 ---
 
 ## 👤 Author
